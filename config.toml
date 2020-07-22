@@ -15,7 +15,7 @@ publishDir = "docs"
     author = "UVA Biocomplexity Institute"
     description = "2020 DSPG Your Name"
     logo = "favicon/uva-dspg-logo.jpg"
-    githubUsername = "uva-bi-sdad"
+    githubUsername = "aaec-git1"
     accent = "#232D4B" # dark colors do best
     backgroundColor = "#FFFFFF"
     font = "Oxygen" # should match the name on Google Fonts!
@@ -69,5 +69,5 @@ publishDir = "docs"
     weight = 3
     
 [[menu.icon]]
-    url = "mailto:kb7hp@virginia.edu"
+    url = "mailto:ecsusan@vt.edu"
     name = "far fa-envelope"
